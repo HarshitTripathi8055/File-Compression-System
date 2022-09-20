@@ -26,9 +26,9 @@ The programs can compress and decompress text file consisting of 128 ASCII chara
 
 Here is an example:
 Huffman codes for each character in the given text:
-![codes](codes.PNG)
+![codes](codes.png)
 
 Text encoded in a binary format, decoded text and compression ratio:
-![static huffman](static-huffman.PNG)
+![static huffman](static-huffman.png)
 
 As can be seen, string is compressed to about 6% of the original string which was given as input.
